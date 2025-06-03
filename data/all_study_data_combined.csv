@@ -1,0 +1,137 @@
+Name of Study,Year,Country,No. of Patients per trial arm,Type of Population,Mean Age,% Female,CVD Risk Median Follow-Up Years,cIMT Progression Maximum Follow-Up Years,% with cIMT Data,cIMT progression per year,effect size (RR),lower CI,upper CI
+ACAPS (1),1990,USA,230,Elevated CVD risk,62,48,5,6,100,-3,0.38,0.14,1.07
+ACAPS (2),1990,USA,230,Elevated CVD risk,62,48,5,6,100,1,0.64,0.25,1.65
+ACT NOW,2006,USA,301,Dysglycemia,52,58,2.2,4,63,-5,0.44,0.14,1.41
+ALL-IMT,2010,UK,40,Pre-existing CVD,68,43,1,1.2,100,-68,0.36,0.09,1.34
+AMAR,2005,Russia,129,Elevated CVD risk,61,0,2,2,76,-37,0.58,0.24,1.39
+ARBIRTER,2001,USA,81,Elevated CVD risk,60,29,1,1,86,-59,1.04,0.22,4.99
+ARBIRTER 2,2003,USA,84,Pre-existing CVD,67,9,1,1,89,-30,0.39,0.11,1.47
+ARBIRTER 6-HALTS,2009,USA,182,Pre-existing CVD,65,20,1.2,1.2,57,-12,0.21,0.05,0.95
+ARTSTIFF (1),2011,International,44,Hypertension,53,37,1,1,87,28,1.05,0.02,51.61
+ARTSTIFF (2),2011,International,44,Hypertension,53,37,1,1,87,-1,0.94,0.02,46.17
+ASAP-FINLAND,1995,Finland,260,Hyperlipidemia,60,51,6,6,85,-4,2.11,0.63,7.02
+ASAP-NL,1998,Netherlands,165,Hyperlipidemia,49,61,2,2,85,-12,0.69,0.12,4.08
+ASFAST,2000,International,158,Kidney disease,56,32,3.3,3.6,77,-10,0.84,0.56,1.26
+ATIC,2002,Netherlands,47,Kidney disease,53,43,2,1.5,80,-87,0.98,0.14,6.66
+Ahn et al.,2006,Korea,65,Pre-existing CVD,64,38,2,2,73,-80,0.83,0.35,1.96
+Andrews et al.,2015,USA,40,Kidney disease,57,20,0.2,0.2,79,-87,3.15,0.13,75.12
+BCAPS (1),1996,Sweden,198,Elevated CVD risk,62,54,3,3,99,-8,0.64,0.25,1.64
+BCAPS (2),1996,Sweden,198,Elevated CVD risk,62,54,3,3,99,-1,0.39,0.14,1.07
+BKREGISTRY-II,2003,Korea,103,Pre-existing CVD,60,32,0.5,1.1,59,48,0.44,0.04,4.84
+BVAIT,2006,USA,253,General population,61,39,3.1,2.5,97,-1,0.81,0.34,1.93
+CAIUS,1992,Italy,153,Hyperlipidemia,55,47,3,3,100,-11,1.53,0.26,9.03
+CAMERA,2011,UK,87,Pre-existing CVD,63,23,1.5,2.3,100,7,0.56,0.17,1.86
+CAPPA,2009,Korea,210,Dysglycemia,60,50,3,3,99,-21,1.02,0.21,5.02
+CAPTIVATE,2005,International,446,Hyperlipidemia,55,39,2,1,99,14,1.65,0.82,3.34
+CERDIA,2001,Netherlands,125,Dysglycemia,58,53,2.1,2.5,99,2,1.02,0.21,5.02
+CHICAGO,2005,USA,231,Dysglycemia,60,37,1.4,1.4,78,-9,0.3,0.08,1.07
+CIMT phase 1,2009,Denmark,206,Dysglycemia,61,32,1.5,1.5,100,8,0.82,0.35,1.93
+CLAS,1984,USA,81,Pre-existing CVD,54,0,7,4,48,-25,0.66,0.48,0.9
+CONTRAST,2009,Netherlands,357,Kidney disease,64,38,2.4,3.1,20,3,1.12,0.83,1.52
+Cao et al.,2011,China,144,Elevated CVD risk,71,53,2,2,100,-56,0.28,0.13,0.58
+DAPC,2006,International,165,Dysglycemia,64,48,2,2,90,-36,0.52,0.05,5.72
+DAPHNE,2002,Netherlands,40,Pre-existing CVD,59,0,3,3,100,2,1.22,0.5,2.96
+DOIT,1999,Norway,281,Elevated CVD risk,70,0,3,3,83,-6,0.75,0.47,1.2
+EGE STUDY (1),2006,Turkey,161,Kidney disease,59,46,3,3,100,-3,0.91,0.55,1.5
+EGE STUDY (2),2006,Turkey,161,Kidney disease,59,46,3,3,100,3,1.05,0.63,1.75
+ELITE (early MP),2008,USA,136,General population,55,100,5,5,92,-3,0.33,0.01,7.93
+ELITE (late MP),2008,USA,186,General population,65,100,5,5,94,1,1.5,0.25,8.87
+ELSA,2002,International,1167,Hypertension,56,45,4,4,87,-2,0.8,0.49,1.33
+ELVA,2002,Sweden,65,Hyperlipidemia,60,49,3,3,71,-24,3.24,0.35,30.35
+ENCORE (1),2008,USA,41,Elevated CVD risk,52,67,0.4,1.1,98,29,0.36,0.01,100
+ENCORE (2),2008,USA,41,Elevated CVD risk,52,67,0.4,1.1,98,-12,0.35,0.01,100
+ENHANCE,2004,International,360,Hyperlipidemia,47,49,2,2.3,100,2,1.09,0.63,1.87
+EPAT,1998,USA,111,Hyperlipidemia,61,100,2,2,90,-5,0.4,0.08,2.02
+FIELD,2000,International,4898,Dysglycemia,62,37,6,5,2,-2,0.9,0.81,0.99
+FIRST,2010,USA,341,Pre-existing CVD,61,32,2.1,2,84,-2,0.88,0.44,1.77
+FRANCIS,2012,Netherlands,160,Elevated CVD risk,53,70,5,5,100,-4,0.27,0.06,1.29
+GRACE (1),2005,International,297,Dysglycemia,63,36,5.8,5.1,100,-2,0.99,0.81,1.22
+GRACE (2),2005,International,297,Dysglycemia,63,36,5.8,5.1,100,0,1.09,0.89,1.33
+Gresele et al.,2005,International,221,Pre-existing CVD,67,21,0.6,0.6,57,-29,0.67,0.16,2.82
+HART,2000,International,463,Pre-existing CVD,69,24,5,5.6,100,5,0.88,0.64,1.21
+HERS,1994,USA,1382,General population,67,100,4.1,4.7,16,4,1.03,0.89,1.2
+HYRIM (1),1999,Norway,142,Hypertension,57,0,4.1,4.6,99,-1,0.8,0.45,1.42
+HYRIM (2),1999,Norway,142,Hypertension,57,0,4.1,4.6,99,-1,0.69,0.38,1.23
+INSIGHT,1996,France,3161,Elevated CVD risk,65,54,3.5,4,5,6,0.86,0.6,1.25
+J-STARS,2009,Japan,795,Pre-existing CVD,66,31,4.9,5,50,-20,1,0.82,1.24
+JART,2010,Japan,174,Hyperlipidemia,64,51,2,2,40,-24,0.29,0.06,1.37
+KAPS,1989,Finland,224,Hyperlipidemia,57,0,3,3,95,-19,0.64,0.31,1.34
+KEEPS (1),2008,USA,242,General population,53,100,4,4,100,1,1.2,0.02,60.03
+KEEPS (2),2008,USA,242,General population,53,100,4,4,100,1,3.72,0.15,90.78
+KIMVASC,2012,UK,40,Pre-existing CVD,77,45,0.5,0.5,99,68,100,0.01,100
+Katakami et al. (1),1998,Japan,53,Dysglycemia,61,51,3.3,3.3,74,-32,2.19,0.04,100
+Katakami et al. (2),1998,Japan,53,Dysglycemia,61,51,3.3,3.3,74,-61,1.98,0.04,97.79
+Koyasu et al.,2008,Japan,45,Pre-existing CVD,66,9,1,1,90,-150,1,0.02,49.31
+LAARS95,2002,International,140,Hypertension,59,50,2,2,72,4,0.97,0.02,48.64
+LIFE-ICARUS,1997,International,42,Hypertension,67,27,4.9,3.1,98,-8,1.17,0.29,4.7
+LIPID,1992,International,4507,Pre-existing CVD,61,17,6.1,4,4,-16,0.78,0.74,0.83
+Luijendijk et al.,2009,Netherlands,78,Pre-existing CVD,36,38,3.3,4.4,100,-5,0.94,0.02,46.66
+MARS,1989,USA,135,Hyperlipidemia,58,9,2.2,4,27,-43,0.7,0.43,1.14
+MAVET,1995,Australia,205,Elevated CVD risk,64,55,4,4,81,4,0.5,0.09,2.69
+MECANO,2006,Netherlands,93,Kidney disease,51,36,1.5,2,88,-5,1.85,0.35,9.88
+MEDICLAS,2005,Netherlands,24,Elevated CVD risk,42,0,3,3.2,77,-6,100,0.01,100
+METEOR,2004,International,492,Elevated CVD risk,57,40,2,2,89,-8,2.81,0.15,54.27
+MG600,2011,Brazil,18,Hypertension,55,100,0.5,0.5,100,100,1,0.01,100
+MIDAS,1996,USA,442,Hypertension,59,22,3,3,100,1,1.24,0.71,2.16
+MITEC,2002,France,105,Elevated CVD risk,60,36,3,3,41,8,1.09,0.02,54.42
+Makimura et al.,2010,USA,30,Elevated CVD risk,41,35,1,1,97,-40,0.94,0.02,45.63
+Masia et al.,2007,Spain,34,Elevated CVD risk,52,10,6,6.9,99,-5,1.33,0.19,9.46
+Mitsuhashi et al.,2004,Japan,31,Dysglycemia,63,35,2.6,2.6,100,-35,0.33,0.01,7.87
+Mortazavi et al.,2013,Iran,27,Kidney disease,57,50,0.5,0.5,96,-28,2.59,0.11,60.69
+NTPP,2010,Japan,62,Elevated CVD risk,59,54,3,3,79,-1,1.05,0.02,52.08
+Nakamura et al. II,2001,Japan,25,Kidney disease,53,40,6.9,4.1,100,-40,0.21,0.04,1.03
+Ntaios et al.,2005,Greece,52,Elevated CVD risk,73,45,1.5,1.5,100,-13,1,0.4,2.51
+OPAL (1),1999,International,289,General population,59,100,3.1,3.7,100,7,2.06,0.38,11.24
+OPAL (2),1999,International,289,General population,59,100,3.1,3.7,100,4,1.46,0.24,8.72
+PART-2,2000,New Zealand,308,Pre-existing CVD,61,18,4.7,4,87,3,0.95,0.72,1.26
+PEACE,2008,Japan,152,Hyperlipidemia,66,43,1,1,74,-16,1.01,0.06,15.95
+PERFORM,2008,International,9560,Pre-existing CVD,67,37,2.4,3,5,11,1.01,0.95,1.08
+PERIOCARDIO,2012,Australia,1.75,Elevated CVD risk,41,42,1,1.4,99,-14,1.75,0.16,19.27
+PHOREA (1),1996,Germany,107,General population,59,100,0.9,0.9,54,22,0.99,0.02,49.47
+PHOREA (2),1996,Germany,107,General population,59,100,0.9,0.9,54,11,2.94,0.12,71.48
+PHYLLIS (1),1997,Italy,127,Elevated CVD risk,58,60,2.6,2.6,82,-2,1,0.02,50.01
+PHYLLIS (2),1997,Italy,127,Elevated CVD risk,58,60,2.6,2.6,82,-3,1.01,0.02,50.41
+PHYLLIS (3),1997,Italy,127,Elevated CVD risk,58,60,2.6,2.6,82,-2,2.98,0.12,72.39
+PLAC II,1990,USA,76,Elevated CVD risk,63,15,3,3,100,-16,0.41,0.13,1.24
+PPAR,2003,International,100,Elevated CVD risk,59,20,1,1,100,-13,0.52,0.2,1.36
+PREDIMED (1),2009,Spain,2482,Elevated CVD risk,67,57,4.8,2.4,2,-10,0.85,0.65,1.11
+PREDIMED (2),2009,Spain,2482,Elevated CVD risk,67,57,4.8,2.4,2,-7,0.76,0.57,1.01
+PREVEND IT (1),1999,Netherlands,216,Kidney disease,51,35,3.9,4.7,94,0,0.99,0.67,1.46
+PREVEND IT (2),1999,Netherlands,216,Kidney disease,51,35,3.9,4.7,94,-4,0.81,0.55,1.2
+PREVENT,1997,International,413,Elevated CVD risk,57,20,3,3,46,-19,0.75,0.59,0.96
+PROBE,2003,Japan,294,Dysglycemia,58,37,4,3.3,30,-5,1,0.36,2.82
+RADIANCE I,2004,International,452,Hyperlipidemia,46,51,2,2.3,98,4,1.35,0.74,2.45
+RADIANCE II,2006,International,376,Hyperlipidemia,57,36,2,2.4,98,4,1.68,0.86,3.27
+RAS,2003,Sweden,279,Elevated CVD risk,67,54,1,1,80,-7,0.67,0.11,3.97
+REGRESS,1991,Netherlands,443,Elevated CVD risk,56,0,2,2,29,-15,0.61,0.45,0.82
+REMOVAL,2014,International,214,Dysglycemia,56,41,3,3,99,-5,1.07,0.42,2.73
+RIS,1989,Sweden,82,Elevated CVD risk,66,0,5.9,7.3,99,6,0.77,0.43,1.37
+SANDS,2004,USA,250,Elevated CVD risk,56,66,3,3,100,-17,1.23,0.49,3.05
+SCIMO,1994,Germany,112,Elevated CVD risk,58,20,2,2,77,10,0.89,0.56,1.41
+SECURE (1),1995,Canada,244,Elevated CVD risk,66,24,4.4,5.3,100,-3,0.86,0.57,1.28
+SECURE (2),1995,Canada,244,Elevated CVD risk,66,24,4.4,5.3,100,0,1.12,0.76,1.65
+SEKONA,2005,Germany,300,Elevated CVD risk,49,11,3,3,66,-23,0.81,0.57,1.14
+SENDCAP,1993,UK,82,Dysglycemia,51,29,3,3,77,1,0.34,0.04,3.22
+SPEAD-A,2013,Japan,171,Dysglycemia,65,42,2,2,94,-15,0.11,0.01,2.05
+SPIKE,2012,Japan,141,Dysglycemia,64,40,2,2,97,-27,1,0.21,4.87
+STARR (1),2003,International,330,Dysglycemia,53,55,4.2,4.5,100,-5,1.31,0.64,2.69
+STARR (2),2003,International,330,Dysglycemia,53,55,4.2,4.5,100,-3,0.86,0.42,1.76
+STOP-NIDDM,1998,Germany,715,Dysglycemia,55,51,3.3,3.9,8,-6,0.47,0.26,0.86
+Safarova et al.,2009,Russia,30,Pre-existing CVD,55,0,3,2.8,100,-12,0.72,0.38,1.34
+Sander et al. (Cp neg),1998,Germany,74,Pre-existing CVD,64,44,3,2,100,-10,0.79,0.22,2.82
+Sander et al. (Cp pos),1998,Germany,63,Pre-existing CVD,65,43,3,2,100,-40,1.13,0.49,2.59
+Spring et al.,2008,Switzerland,50,Pre-existing CVD,67,22,0.5,0.5,89,-40,1.08,0.07,16.84
+Stanley et al.,2013,USA,24,Elevated CVD risk,51,16,0.5,0.5,86,-60,0.26,0.01,6.12
+Stanton et al.,2001,UK,35,Hypertension,48,41,1,1,80,21,0.34,0.01,8.13
+TART,1998,USA,150,Dysglycemia,52,66,2,2,92,-4,1.01,0.33,3.05
+TEAAM,2009,USA,154,General population,68,0,3,3,99,0,2.92,0.96,8.86
+TRIPOD,1998,USA,133,Dysglycemia,34,100,2.9,4,72,-3,1,0.02,50.03
+Tasic et al.,2006,Serbia,20,Hypertension,64,35,0.8,0.8,100,-141,0.5,0.1,2.43
+VEAPS,1999,USA,177,Hyperlipidemia,56,52,3,3,94,2,0.8,0.32,1.97
+VHAS,1998,Italy,707,Hypertension,54,51,2,4,27,-1,1.06,0.54,2.09
+VIP,2007,Netherlands,60,Kidney disease,53,33,3,3,86,-3,0.44,0.12,1.61
+VITAL,2004,Netherlands,100,Elevated CVD risk,49,41,1.5,2.5,99,16,1.41,0.45,4.46
+WISH,2007,USA,175,General population,61,100,2.7,3,93,-1,3,0.12,73.14
+Yang et al.,2017,China,60,Elevated CVD risk,54,72,0.5,0.5,100,-48,0.98,0.02,48.75
+Yun et al.,2013,China,68,Pre-existing CVD,62,40,2.3,4.5,93,-38,0.47,0.21,1.05
+Zou et al.,2010,China,48,Elevated CVD risk,57,59,1,1,89,-38,1,0.02,49.38
