@@ -67,20 +67,10 @@ limitations under the License.
 
 ## Relevance to Quantitative Finance
 
-This project applied advanced linear algebra concepts and statistical inference, showcasing:
-
-- Strong quantitative analysis
-- Technical programming skills
-- Data-driven decision-making
-
-These capabilities are directly applicable to:
+This project applied advanced linear algebra concepts and statistical inference, demonstrating strong quantitative analysis and technical programming skills. These capabilities are directly applicable to:
 
 - Financial modeling  
 - Signal extraction from noisy data  
 - Algorithmic decision-making under uncertainty
 
-Such skills are foundational in quantitative trading, particularly in areas like:
-
-- Strategy backtesting  
-- Risk modeling  
-- Real-time market analysis
+Such skills are foundational in quantitative trading, particularly in areas like strategy backtesting, risk modeling, and real-time market analysis.
