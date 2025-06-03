@@ -22,11 +22,11 @@ This repository implements a meta-regression and predictive model to analyze car
 ├── .gitignore # Ignore temporary/system files
 ├── requirements.txt # Python dependencies
 ├── code/
-│   └── main.py # Core script: loads data, performs OLS/WLS regression, and prediction
+│ └── main.py # Core script: loads data, performs OLS/WLS regression, and prediction
 ├── data/
-│   └── all_study_data_combined.csv # Cleaned dataset with effect sizes, demographics, and confidence intervals
+│ └── all_study_data_combined.csv # Cleaned dataset with effect sizes, demographics, and confidence intervals
 ├── docs/
-│   └── Main_Project_Report.pdf # Full course project write-up (includes methodology, visuals, and interpretation)
+│ └── Main_Project_Report.pdf # Full course project write-up (includes methodology, visuals, and interpretation)
 ```
 
 ## Models Used
